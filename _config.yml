@@ -124,13 +124,11 @@ content:
           the robot simulation in typescript for users. I was able to complete final testing and provided a demo of my work as a part of the end of 
           project presentation which was well received by the Senior team members.
 
-          This was my first time working on a preestablished open-source codebase which was fascinating, I also learnt a lot by robotics and compilers which are a personal areas of interest of mine.
+          This was my first time working on a pre-established open-source codebase, this was fascinating. I also learnt a lot by robotics and compilers which are a personal areas of interest of mine.
   - title: Education
     layout: list
     content:
       - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-          # other value (or no value) means no border will be displayed
         title: Pembroke College, University Of Cambridge
         sub_title: BA Computer Science
         caption: 2019-2022
@@ -147,8 +145,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Bluetooth Low Energy Geolocation
         link: https://github.com/TechTurtle11/ble-geolocation
         link_text: ble-geolocation
@@ -165,10 +161,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
 
-      When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a few sports such as mountain biking,
+      When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a few sports such as mountain biking,
       walking and running as well as trying to make time for things like rock climbing and swimming.
 
-      Finally during the rest of my free time you will either find me fixing my bike again, at the cinema watching the latest release or down at the pub with some friends.
+      Finally during the rest of my free time you will either find me fixing my bike, at the cinema watching the latest release or down at the pub with some friends.
 
 
 # Footer
