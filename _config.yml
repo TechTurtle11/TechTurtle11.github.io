@@ -69,16 +69,16 @@ content:
         caption: September 2022 - present
         link: https://www.baesystems.com/en/digital
         description: | # this will include new lines to allow paragraphs
-          Began graduate career by revamping a <mark>Ruby</mark> <mark>RSpec</mark>test harness.
-          Additionally, added <mark>jenkins</mark> automation into the testing process, reducing the time to test builds and increasing confidence in a
+          Began graduate career by revamping a <mark>Ruby</mark> <mark>RSpec</mark> test harness.
+          Additionally, added <mark>Jenkins</mark> automation into the testing process, reducing the time to test builds and increasing confidence in a
           software releases.
 
-          Assessed feasibility, prototyped, designed and implemented a python pytest test harness for a large component for a time critical project. This included:
+          Assessed feasibility, prototyped, designed and implemented a <mark>Python</mark> <mark>Pytest</mark> test harness for a large component for a time critical project. This included:
           managing, coordinating and reviewing two other graduates work on the project. Developed and deployed the test harness using a container based mechanism.
           Successfully co-ordinated with colleagues and introduced a test-driven development process using the test-harness.
 
-          Modernised the build system and components for a department, including writing a Jenkins shared library, developing a new RPM publishing and development workflow and
-          uplifting more than two dozen Python and C++ components from Centos 7 to AlmaLinux 9.
+          Modernised the build system and components for a department, including writing a <mark>Jenkins</mark> shared library, developing a new RPM publishing and development workflow and
+          uplifting more than two dozen <mark>Python</mark> and <mark>C++</mark> components from Centos 7 to AlmaLinux 9.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -136,10 +136,10 @@ content:
           Although we mostly focused on software development and the principles of programming I use lot of these skills to my advantage
           in my day to day work. My course focused mostly of practical concepts with languages expected to be learnt alongside modules. Due to this approach I learnt the ability
           to quickly pick up a new languages and technologies some of these include: <mark>OCaml</mark>, <mark>Java</mark>, <mark>C/C++</mark>, <mark>Python</mark>, <mark>SQL</mark>, <mark>Prolog</mark>, <mark>Git</mark> and <mark>Verilog</mark>.
-          Some of my favorite modules included: <mark>Concurrent and Distributed Computing</mark>,
+          Some of my favourite modules included: <mark>Concurrent and Distributed Computing</mark>,
           <mark>Advanced Computer Architecture</mark> and <mark>Optimising Compilers</mark>.
 
-          While at Cambridge I spent a lot of my free time attending various Hackathons, exploring the gorgeous Cambridgeshire countryside and partaking in various societies.
+          While at Cambridge spent my free time attending various Hackathons, exploring the gorgeous Cambridgeshire countryside and partaking in various societies.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -148,11 +148,11 @@ content:
         link: https://github.com/TechTurtle11/ble-geolocation
         link_text: ble-geolocation
         description: | # this will include new lines to allow paragraphs
-          **[Link To Dissertation In Full](./assets/geolocation_in_a_rainforest.pdf)**
+          **[Read Dissertation In Full](./assets/geolocation_in_a_rainforest.pdf)**
 
-          Traditionally GPS is used to provide radiolocation outside with successful results;
+          Traditionally GPS is used to provide Radiolocation outside with successful results;
           however in some environments such as the rainforest this provides inaccurate results due
-          to environmental factors. The project aimed to build a Bluetooth low energy (BLE)
+          to environmental factors. The project aimed to build a Bluetooth Low Energy (BLE)
           localisation system to produce more accurate results. I received a first in my Dissertation and the project results were a promising
           indicator that the model may be able to be applied to mapping in the rainforest.
 
