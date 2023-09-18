@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi my name is Thomas Barker, I'm a Software Developer currently specialising in application development in <mark>python</mark> and <mark>C++</mark>.
   I am currently working for BAE Systems Digital Intelligence on some exciting projects.
 
-  I enjoy developing modern and scalable software solutions to unconventional problems. I like working to create clean and efficient developer experiences
-  to focus on code quality and reduce overall development time. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new.
-  The things that I currently have the most experience working with are <mark>Python</mark>, <mark>C++</mark>, <mark>Docker</mark>, <mark>Java</mark>, <mark>Jenkins</mark>, <mark>Git</mark> and <mark>Red Hat Enterprise Linux</mark>.
+  I enjoy creating modern and scalable software solutions to unconventional problems. I enjoy to create clean and efficient developer experiences
+  with a focus on code quality and reducing overall development time. I have developed with a range of different languages and frameworks and I am always looking for opportunities to work with something new.
+  The technologies that I currently have the most experience  with are <mark>Python</mark>, <mark>C++</mark>, <mark>Docker</mark>, <mark>Java</mark>, <mark>Jenkins</mark>, <mark>Git</mark> and <mark>Red Hat Enterprise Linux</mark>.
 
 
 content:
@@ -62,27 +62,26 @@ content:
     layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
                 # other value (or no value) means no border will be displayed
         title: BAE Systems Digital Intelligence
         sub_title: Software Engineer (Graduate)
         caption: September 2022 - present
         link: https://www.baesystems.com/en/digital
         description: | # this will include new lines to allow paragraphs
-          I began my graduate career at BAE Systems by playing a pivotal role in uplifting a test harness in <mark>Ruby</mark> and <mark>Rspec</mark>,
-          introducing continuous integration to ensure top-quality results.
+          Began graduate career by revamping a <mark>Ruby</mark> <mark>RSpec</mark>test harness.
+          Additionally, added <mark>jenkins</mark> automation into the testing process, reducing the time to test builds and increasing confidence in a
+          software releases.
 
-          My work on this project gave me the opportunity to reconnect with some of the colleagues I worked with during my internship,
-          and I was offered the opportunity to join the team delivering several significant releases at BAE Systems.
-          My contributions to these releases were so impactful that I was awarded for my outstanding work.
+          Assessed feasibility, prototyped, designed and implemented a python pytest test harness for a large component for a time critical project. This included:
+          managing, coordinating and reviewing two other graduates work on the project. Developed and deployed the test harness using a container based mechanism.
+          Successfully co-ordinated with colleagues and introduced a test-driven development process using the test-harness.
 
-          My work on this project gave me the opportunity to reconnect with some of the colleagues I worked with during my internship,
-          This led me to being offered the chance to do some prototyping and design work 
-          This work involved redesigning and extending the test harness that I had initially worked on as an intern.
-          I assessed the previous implementation to produce detailed requirements, which I then used to design and implement the new solution.
+          Modernised the build system and components for a department, including writing a Jenkins shared library, developing a new RPM publishing and development workflow and
+          uplifting more than two dozen Python and C++ components from Centos 7 to AlmaLinux 9.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
           # other value (or no value) means no border will be displayed
         title: BAE Systems Digital Intelligence
         sub_title: Software Engineer (Intern)
@@ -95,22 +94,22 @@ content:
           One of my proudest achievements during this internship was introducing continuous integration to the test harness, using a <mark>Jenkins</mark> pipeline.
           This addition helped to streamline our development process and improving confidence in produced code.
 
-          As I worked on this project, I was constantly seeking out ways to improve our methods and tools. I researched and tested new approaches, and shared my findings with my colleagues,
+          As I Implemented the project, I was constantly seeking out ways to improve our methods and tools. I researched and tested new approaches, and shared my findings with my colleagues,
           helping us all to work more efficiently and effectively.
 
-          Overall, my experience working on this project was incredibly rewarding. I learned a great deal about software engineering,
+          Overall, my experience conducting this project was incredibly rewarding. I learned a great deal about software engineering,
           honed my skills in <mark>python</mark>, <mark>docker</mark>, and continuous integration techniques, and gained my first practical <mark>RH-based OS Linux</mark> development experience.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
           # other value (or no value) means no border will be displayed
         title: Cascade
         sub_title: Volunteer Backend Software Engineer
-        caption: June 2020 - Dec 2020
+        caption: June 2020 - December 2020
         description: | # this will include new lines to allow paragraphs
-          During my time at Cambridge, I was volunteered to help a friend develop the backend for there sustainable choice app/web application. 
-          I led the backend coding team on this project, working on creating the web API using <mark>Django</mark> <mark>REST</mark> framework and how this could be deployed on a linux server.
-          This was my first opportunity to lead software engineers and deploying an application, I feel this opportunity has given me the drive to always want to try new develop myself and other engineers
+          Volunteered to help a friend develop the backend for there sustainable choice app/web application.
+          Led the backend coding team on this project, creating the web API using the <mark>Django</mark> <mark>REST</mark> framework. Developed the deployment mechanism to the linux server backend.
+          This was my first opportunity to lead software engineers and deploying an application, this opportunity has gave me the drive for personal and team development.
 
       - layout: left
           # other value (or no value) means no border will be displayed
@@ -119,26 +118,26 @@ content:
         link: https://github.com/OpenRoberta/openroberta-lab
         caption: June 2020 - September 2020
         description: | # this will include new lines to allow paragraphs
-          As part of the googles summer of code scheme I extended Open Roberta’s robot simulation stack machine interpreter in <mark>typescript</mark>
-          to allow users to see the current code executing by highlighting the code blocks. I also developed debugging functionality for 
-          the robot simulation in typescript for users. I was able to complete final testing and provided a demo of my work as a part of the end of 
-          project presentation which was well received by the Senior team members.
+          As part of the googles summer of code scheme extended Open Roberta's robot simulation stack machine interpreter in <mark>typescript</mark>
+          to allow users to see the current code executing by highlighting the code blocks. Also developed debugging functionality for
+          the robot simulation in typescript for users. Completed final testing and provided a demo of work as a part of the end of
+          project presentation. This was well received by the Senior team members.
 
-          This was my first time working on a pre-established open-source codebase, this was fascinating. I also learnt a lot by robotics and compilers which are a personal areas of interest of mine.
+          Working with a pre-established open-source codebase, was a fascinating learning opportunity. In addition, this was good exposer to how compilers and robots algorithms operate efficiently.
   - title: Education
     layout: list
     content:
       - layout: top-left
         title: Pembroke College, University Of Cambridge
         sub_title: BA Computer Science
-        caption: 2019-2022
+        caption: September 2019 - June 2022
         description: | # this will include new lines to allow paragraphs
           During my degree at the University Of Cambridge I learnt lots of key skills such as team work and project management.
           Although we mostly focused on software development and the principles of programming I use lot of these skills to my advantage
-          in my day to day work. My course focused mostly of practical concepts with languages expected to be learnt alongside modules. Due to this approach I learnt the ability 
+          in my day to day work. My course focused mostly of practical concepts with languages expected to be learnt alongside modules. Due to this approach I learnt the ability
           to quickly pick up a new languages and technologies some of these include: <mark>OCaml</mark>, <mark>Java</mark>, <mark>C/C++</mark>, <mark>Python</mark>, <mark>SQL</mark>, <mark>Prolog</mark>, <mark>Git</mark> and <mark>Verilog</mark>.
-          Some of my favorite modules included: <mark>Concurrent and Distributed Computing</mark>, 
-          <mark>Advanced Computer Architecture</mark> and <mark>Optimising Compilers</mark>. 
+          Some of my favorite modules included: <mark>Concurrent and Distributed Computing</mark>,
+          <mark>Advanced Computer Architecture</mark> and <mark>Optimising Compilers</mark>.
 
           While at Cambridge I spent a lot of my free time attending various Hackathons, exploring the gorgeous Cambridgeshire countryside and partaking in various societies.
   - title: Projects # Title for the section
