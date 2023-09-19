@@ -49,12 +49,12 @@ linkedin_username: thomas-barker2001
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hi my name is Thomas Barker, I'm a Software Developer currently specialising in application development in <mark>python</mark> and <mark>C++</mark>.
-  I am currently working for BAE Systems Digital Intelligence on some exciting projects.
+  Software Developer currently specialising in application development in <mark>python</mark> and <mark>C++</mark>.
+  Currently working for BAE Systems Digital Intelligence on exciting projects solving unconventional problems.
 
-  I enjoy creating modern and scalable software solutions to unconventional problems. I enjoy to create clean and efficient developer experiences
-  with a focus on code quality and reducing overall development time. I have developed with a range of different languages and frameworks and I am always looking for opportunities to work with something new.
-  The technologies that I currently have the most experience  with are <mark>Python</mark>, <mark>C++</mark>, <mark>Docker</mark>, <mark>Java</mark>, <mark>Jenkins</mark>, <mark>Git</mark> and <mark>Red Hat Enterprise Linux</mark>.
+  Personal developer philosophy focuses on creating clean and efficient developer experience with a focus on code quality.
+  Developed with a range of different languages/frameworks and enjoy the opportunity to work with new technologies.
+  Confident to work with <mark>Python</mark>, <mark>C++</mark>, <mark>Docker</mark>, <mark>Java</mark>, <mark>Jenkins</mark>, <mark>Git</mark> and <mark>Red Hat Enterprise Linux</mark>.
 
 
 content:
@@ -73,11 +73,11 @@ content:
           Additionally, added <mark>Jenkins</mark> automation into the testing process, reducing the time to test builds and increasing confidence in a
           software releases.
 
-          Assessed feasibility, prototyped, designed and implemented a <mark>Python</mark> <mark>Pytest</mark> test harness for a large component for a time critical project. This included:
-          managing, coordinating and reviewing two other graduates work on the project. Developed and deployed the test harness using a container based mechanism.
-          Successfully co-ordinated with colleagues and introduced a test-driven development process using the test-harness.
+          Assessed feasibility, designed and implemented a <mark>Python</mark> <mark>Pytest</mark> test harness for a large component for a time critical project.
+          Managed, mentored and reviewed two other graduates on the project. Created and deployed the test harness using a container based mechanism.
+          Co-ordinated with colleagues and introduced a test-driven development process using the test-harness.
 
-          Modernised the build system and components for a department, including writing a <mark>Jenkins</mark> shared library, developing a new RPM publishing and development workflow and
+          Modernised the build system and components for a department, including writing a <mark>Jenkins</mark> groovy shared library, developing a new RPM publishing and development workflow and
           uplifting more than two dozen <mark>Python</mark> and <mark>C++</mark> components from Centos 7 to AlmaLinux 9.
 
       - layout: left
@@ -88,17 +88,11 @@ content:
         caption: June 2021 - September 2021
         link: https://www.baesystems.com/en/digital
         description: | # this will include new lines to allow paragraphs
-          During my internship at BAE Systems, I had the opportunity to work on a challenging project that involved extending a test harness using python.
-          This experience taught me a great deal about practical development on RH-based Linux OSs, and I gained valuable hands-on experience working with these technologies.
+          Collaborated on a challenging project that involved extending a legacy test harness using python.
 
-          One of my proudest achievements during this internship was introducing continuous integration to the test harness, using a <mark>Jenkins</mark> pipeline.
-          This addition helped to streamline our development process and improving confidence in produced code.
+          Introduced continuous integration to the test harness repo, using a <mark>Jenkins</mark> pipeline, this streamlined the development process and improved confidence code.
 
-          As I Implemented the project, I was constantly seeking out ways to improve our methods and tools. I researched and tested new approaches, and shared my findings with my colleagues,
-          helping us all to work more efficiently and effectively.
-
-          Overall, my experience conducting this project was incredibly rewarding. I learned a great deal about software engineering,
-          honed my skills in <mark>python</mark>, <mark>docker</mark>, and continuous integration techniques, and gained my first practical <mark>RH-based OS Linux</mark> development experience.
+          Gained industry experience wth <mark>python</mark>, <mark>docker</mark>, continuous integration techniques and <mark>RH-based OS Linux</mark>.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -107,9 +101,10 @@ content:
         sub_title: Volunteer Backend Software Engineer
         caption: June 2020 - December 2020
         description: | # this will include new lines to allow paragraphs
-          Volunteered to help a friend develop the backend for there sustainable choice app/web application.
-          Led the backend coding team on this project, creating the web API using the <mark>Django</mark> <mark>REST</mark> framework. Developed the deployment mechanism to the linux server backend.
-          This was my first opportunity to lead software engineers and deploying an application, this opportunity has gave me the drive for personal and team development.
+          Volunteered to develop the backend for a sustainable choice app/web application.
+          Led the backend coding team on this project, creating the web API using the <mark>Django</mark> <mark>REST</mark> framework.
+
+          Authored the deployment mechanism to the linux server backend.
 
       - layout: left
           # other value (or no value) means no border will be displayed
@@ -118,12 +113,12 @@ content:
         link: https://github.com/OpenRoberta/openroberta-lab
         caption: June 2020 - September 2020
         description: | # this will include new lines to allow paragraphs
-          As part of the googles summer of code scheme extended Open Roberta's robot simulation stack machine interpreter in <mark>typescript</mark>
-          to allow users to see the current code executing by highlighting the code blocks. Also developed debugging functionality for
-          the robot simulation in typescript for users. Completed final testing and provided a demo of work as a part of the end of
-          project presentation. This was well received by the Senior team members.
+          Extended Open Roberta's robot simulation stack machine interpreter in <mark>typescript</mark>
+          to allow users to see the current code executing by highlighting the code blocks.
 
-          Working with a pre-established open-source codebase, was a fascinating learning opportunity. In addition, this was good exposer to how compilers and robots algorithms operate efficiently.
+          Developed debugging functionality for the robot simulation in typescript for users.
+          Completed final testing and provided a demo of work as a part of the end of project presentation.
+          Gained first practical experience extending a pre-established open-source codebase.
   - title: Education
     layout: list
     content:
@@ -132,14 +127,12 @@ content:
         sub_title: BA Computer Science
         caption: September 2019 - June 2022
         description: | # this will include new lines to allow paragraphs
-          During my degree at the University Of Cambridge I learnt lots of key skills such as team work and project management.
-          Although we mostly focused on software development and the principles of programming I use lot of these skills to my advantage
-          in my day to day work. My course focused mostly of practical concepts with languages expected to be learnt alongside modules. Due to this approach I learnt the ability
-          to quickly pick up a new languages and technologies some of these include: <mark>OCaml</mark>, <mark>Java</mark>, <mark>C/C++</mark>, <mark>Python</mark>, <mark>SQL</mark>, <mark>Prolog</mark>, <mark>Git</mark> and <mark>Verilog</mark>.
-          Some of my favourite modules included: <mark>Concurrent and Distributed Computing</mark>,
-          <mark>Advanced Computer Architecture</mark> and <mark>Optimising Compilers</mark>.
+          Picked key skills such as team work and project management.
+          Majority of modules focused on concepts with languages being learnt by implementing these practically.
+          Gained the ability to quickly pick up new languages and technologies some of these include: <mark>OCaml</mark>, <mark>Java</mark>, <mark>C/C++</mark>, <mark>Python</mark>, <mark>SQL</mark>, <mark>Prolog</mark>, <mark>Git</mark> and <mark>Verilog</mark>.
+          Favourite modules included: <mark>Concurrent and Distributed Computing</mark>, <mark>Advanced Computer Architecture</mark> and <mark>Optimising Compilers</mark>.
 
-          While at Cambridge spent my free time attending various Hackathons, exploring the gorgeous Cambridgeshire countryside and partaking in various societies.
+          While at Cambridge spent free time attending Hackathons, exploring the gorgeous Cambridgeshire countryside and partaking in societies.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -150,21 +143,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           **[Read Dissertation In Full](./assets/geolocation_in_a_rainforest.pdf)**
 
-          Traditionally GPS is used to provide Radiolocation outside with successful results;
+          Traditionally GPS provides Radiolocation outside with successful results;
           however in some environments such as the rainforest this provides inaccurate results due
-          to environmental factors. The project aimed to build a Bluetooth Low Energy (BLE)
-          localisation system to produce more accurate results. I received a first in my Dissertation and the project results were a promising
-          indicator that the model may be able to be applied to mapping in the rainforest.
+          to environmental factors.
+          The project aimed to build a Bluetooth Low Energy (BLE) localisation system to produce more accurate results.
+
+          Received a first for the 10000 word dissertation with the project results being a promising
+          indicator of real world use cases for the technology.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
 
-      When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a few sports such as mountain biking,
-      walking and running as well as trying to make time for things like rock climbing and swimming.
-
-      Finally during the rest of my free time you will either find me fixing my bike, at the cinema watching the latest release or down at the pub with some friends.
-
+      Enjoy the outdoors and various sports such as swimming. Additionally, an Avid cyclist, cinema-goer and cider enthusiast.
 
 # Footer
 footer_show_references: true
