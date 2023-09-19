@@ -141,7 +141,6 @@ content:
         link: https://github.com/TechTurtle11/ble-geolocation
         link_text: ble-geolocation
         description: | # this will include new lines to allow paragraphs
-          **[Read Dissertation In Full](./assets/geolocation_in_a_rainforest.pdf)**
 
           Traditionally GPS provides Radiolocation outside with successful results;
           however in some environments such as the rainforest this provides inaccurate results due
@@ -150,6 +149,9 @@ content:
 
           Received a first for the 10000 word dissertation with the project results being a promising
           indicator of real world use cases for the technology.
+
+          **[Read Dissertation In Full](./assets/geolocation_in_a_rainforest.pdf)**
+
 
   - title: A Little More About Me
     layout: text
