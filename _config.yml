@@ -90,7 +90,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Collaborated on a challenging project that involved extending a legacy test harness using python.
 
-          Introduced continuous integration to the test harness repo, using a <mark>Jenkins</mark> pipeline, this streamlined the development process and improved confidence code.
+          Introduced continuous integration to the test harness repository, using a <mark>Jenkins</mark> pipeline, this streamlined the development process and improved confidence in the code.
 
           Gained industry experience with <mark>python</mark>, <mark>docker</mark>, continuous integration techniques and <mark>RH-based OS Linux</mark>.
 
