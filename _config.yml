@@ -92,7 +92,7 @@ content:
 
           Introduced continuous integration to the test harness repo, using a <mark>Jenkins</mark> pipeline, this streamlined the development process and improved confidence code.
 
-          Gained industry experience wth <mark>python</mark>, <mark>docker</mark>, continuous integration techniques and <mark>RH-based OS Linux</mark>.
+          Gained industry experience with <mark>python</mark>, <mark>docker</mark>, continuous integration techniques and <mark>RH-based OS Linux</mark>.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
