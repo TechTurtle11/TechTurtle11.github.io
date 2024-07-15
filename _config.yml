@@ -76,7 +76,7 @@ content:
           test-driven development process using the test-harness into the team
 
           Created an automated deployment and test pipeline for a system of components using Jenkins/Ansible, this reduced
-          deployment  time from 4 hours to 30 minutes. In addition to having reproducible deployments of development
+          deployment time from 4 hours to 30 minutes. In addition to having reproducible deployments of development
           infrastructure.
 
           Modernised the build system and components for a department, including writing a Jenkins groovy shared library.
