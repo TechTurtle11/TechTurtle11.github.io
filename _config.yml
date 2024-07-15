@@ -65,20 +65,25 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                 # other value (or no value) means no border will be displayed
         title: BAE Systems Digital Intelligence
-        sub_title: Software Engineer (Graduate)
+        sub_title: Software Engineer
         caption: September 2022 - present
         link: https://www.baesystems.com/en/digital
         description: | # this will include new lines to allow paragraphs
-          Began graduate career by revamping a <mark>Ruby</mark> <mark>RSpec</mark> test harness.
-          Additionally, added <mark>Jenkins</mark> automation into the testing process, reducing the time to test builds and increasing confidence in a
-          software releases.
+          Assessed feasibility, designed and implemented a Python Pytest test harness for a large component for a time critical
+          project. Created and deployed the test harness using a container based mechanism.
 
-          Assessed feasibility, designed and implemented a <mark>Python</mark> <mark>Pytest</mark> test harness for a large component for a time critical project.
-          Managed, mentored and reviewed two other graduates on the project. Created and deployed the test harness using a container based mechanism.
-          Co-ordinated with colleagues and introduced a test-driven development process using the test-harness.
+          Managed, mentored and reviewed two other graduates on the project. Co-ordinated with colleagues and introduced a
+          test-driven development process using the test-harness into the team
 
-          Modernised the build system and components for a department, including writing a <mark>Jenkins</mark> groovy shared library, developing a new RPM publishing and development workflow and
-          uplifting more than two dozen <mark>Python</mark> and <mark>C++</mark> components from Centos 7 to AlmaLinux 9.
+          Created an automated deployment and test pipeline for a system of components using Jenkins/Ansible, this reduced
+          deployment  time from 4 hours to 30 minutes. In addition to having reproducible deployments of development
+          infrastructure.
+
+          Modernised the build system and components for a department, including writing a Jenkins groovy shared library.
+
+          Influenced the development of a new RPM publishing and developer workflow uplifting more than two dozen Python
+          and C++ components from Centos 7 to AlmaLinux 9.
+
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
