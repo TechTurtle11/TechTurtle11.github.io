@@ -49,18 +49,30 @@ linkedin_username: thomas-barker2001
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Software Developer currently specialising in application development in <mark>python</mark> and <mark>C++</mark>.
-  Currently working for BAE Systems Digital Intelligence on exciting projects solving unconventional problems.
+  Software Developer currently specialising in application development in Python and C++.
+  Currently working for Bank Of America, I have gained valuable experience in the defense and finance industries,
+  designing and implementing cutting-edge software systems to enhance national security.
 
   Personal developer philosophy focuses on creating clean and efficient developer experience with a focus on code quality.
   Developed with a range of different languages/frameworks and enjoy the opportunity to work with new technologies.
-  Confident to work with <mark>Python</mark>, <mark>C++</mark>, <mark>Docker</mark>, <mark>Java</mark>, <mark>Jenkins</mark>, <mark>Git</mark> and <mark>Red Hat Enterprise Linux</mark>.
+  Confident to work with Python, C++, Docker, Java, Jenkins, Git and Red Hat Enterprise Linux.
 
 
 content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                # other value (or no value) means no border will be displayed
+        title: MThree
+        sub_title: FX Options and Derivatives Software Engineer
+        caption: November 2024 - present
+        description: | # this will include new lines to allow paragraphs
+          Contracted to Bank of America within the FX Options and Derivatives team, focusing on development with Quartz and Python.
+          Contributed to business-as-usual tasks and led initiatives to design and implement machine learning models for financial
+          instrument classification and named entity recognition of key attributes. Additionally, maintained and enhanced the team's
+          web services infrastructure to support evolving business needs.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                 # other value (or no value) means no border will be displayed
@@ -95,9 +107,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Collaborated on a challenging project that involved extending a legacy test harness using python.
 
-          Introduced continuous integration into the test harness repository, using a <mark>Jenkins</mark> pipeline, this streamlined the development process and improved confidence in the code.
+          Introduced continuous integration into the test harness repository, using a Jenkins pipeline, this streamlined the development process and improved confidence in the code.
 
-          Gained industry experience with <mark>python</mark>, <mark>docker</mark>, continuous integration techniques and <mark>RH-based OS Linux</mark>.
+          Gained industry experience with Python, Docker, continuous integration techniques and RH-based OS Linux.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -107,7 +119,7 @@ content:
         caption: June 2020 - December 2020
         description: | # this will include new lines to allow paragraphs
           Volunteered to develop the backend for a sustainable choice app/web application.
-          Led the backend coding team on this project, creating the web API using the <mark>Django</mark> <mark>REST</mark> framework.
+          Led the backend coding team on this project, creating the web API using the Django REST framework.
 
           Authored the deployment mechanism to the linux server backend.
 
@@ -118,7 +130,7 @@ content:
         link: https://github.com/OpenRoberta/openroberta-lab
         caption: June 2020 - September 2020
         description: | # this will include new lines to allow paragraphs
-          Extended Open Roberta's robot simulation stack machine interpreter in <mark>typescript</mark>
+          Extended Open Roberta's robot simulation stack machine interpreter in typescript
           to allow users to see the current code executing by highlighting the code blocks.
 
           Developed debugging functionality for the robot simulation in typescript for users.
@@ -134,8 +146,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Picked key skills such as team work and project management.
           Majority of modules focused on concepts with languages being learnt by implementing these practically.
-          Gained the ability to quickly pick up new languages and technologies some of these include: <mark>OCaml</mark>, <mark>Java</mark>, <mark>C/C++</mark>, <mark>Python</mark>, <mark>SQL</mark>, <mark>Prolog</mark>, <mark>Git</mark> and <mark>Verilog</mark>.
-          Favourite modules included: <mark>Concurrent and Distributed Computing</mark>, <mark>Advanced Computer Architecture</mark> and <mark>Optimising Compilers</mark>.
+          Gained the ability to quickly pick up new languages and technologies some of these include: OCaml, Java, C/C++, Python, SQL, Prolog, Git and Verilog.
+          Favourite modules included: Concurrent and Distributed Computing, Advanced Computer Architecture and Optimising Compilers.
 
           While at Cambridge spent free time attending Hackathons, exploring the gorgeous Cambridgeshire countryside and partaking in societies.
   - title: Projects # Title for the section
