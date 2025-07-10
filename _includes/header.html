@@ -105,7 +105,11 @@
           </li>
         {% endfor %}
       </ul>
-
+      {%- if site.location -%}
+        <p>
+          {{ site.location_title | default: "Location" }}: {{ site.location | escape }}
+        </p>
+      {%- endif -%}
       {%- if site.email -%}
         <p>
           {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
