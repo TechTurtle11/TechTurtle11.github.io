@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   Software Developer currently specialising in application development in Python and C++.
-  Currently a contractor with Bank Of America, I have gained valuable experience in the defence and finance industries.
+  Currently working for Bank Of America, I have gained valuable experience in the defence and finance industries.
 
   Personal developer philosophy focuses on creating clean and efficient developer experience with a focus on code quality.
   Developed with a range of different languages/frameworks and enjoy the opportunity to work with new technologies.
@@ -64,14 +64,25 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                 # other value (or no value) means no border will be displayed
+        title: Bank Of America Merrill Lynch
+        sub_title: AVP Software Engineer
+        caption: Jan 2026 - Present
+        description: | # this will include new lines to allow paragraphs
+          AVP Software Engineer working within the FX Options and Derivatives team. Working on various applications within
+          the Pricing and Risk systems.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                # other value (or no value) means no border will be displayed
         title: MThree
         sub_title: FX Options and Derivatives Software Engineer
-        caption: November 2024 - present
+        caption: November 2024 - Jan 2026
         description: | # this will include new lines to allow paragraphs
           Contracted to Bank of America within the FX Options and Derivatives team, focusing on development with Quartz and Python.
           Contributed to business-as-usual tasks and led initiatives to design and implement machine learning models for financial
           instrument classification and named entity recognition of key attributes. Additionally, maintained and enhanced the team's
           web services infrastructure to support evolving business needs.
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                 # other value (or no value) means no border will be displayed
